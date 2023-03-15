@@ -32,6 +32,30 @@
         git push --tags
     </li>
     <li>
+        git branch v0.2
+    </li>
+    <li>
+        git checkout v0.2
+    </li>
+    <li>
+        echo "Contenido del fichero 2" > 2.txt
+    </li>
+    <li>
+        git add 2.txt
+    </li>
+    <li>
+        git commit -m "Añadir fichero 2.txt a la rama v0.2"
+    </li>
+    <li>
+        git push -u origin v0.2
+    </li>
+    <li>
+        
+    </li>
+    <li>
+        
+    </li>
+    <li>
         
     </li>
     <li>
