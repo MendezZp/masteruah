@@ -104,19 +104,19 @@
         git log --oneline --decorate --all
     </li>
     <li>
-        
+        cd ~/.ssh
     </li>
     <li>
-        
+        ls
     </li>
     <li>
-        
+        ssh-keygen
     </li>
     <li>
-        
+        ls
     </li>
     <li>
-        
+        cat github.pub
     </li>
     <li>
         
