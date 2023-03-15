@@ -65,7 +65,7 @@
         git checkout v0.2
     </li>
     <li>
-        echo "Adios" < fichero1.txt
+        echo "Adios" > fichero1.txt
     </li>
     <li>
         git add fichero1.txt
