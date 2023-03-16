@@ -126,8 +126,11 @@
     <tr>
     <th>Mendez</th>
     <th>https://github.com/MendezZp</th>
+    <tr>
     <th>Mendez</th>
     <th>https://github.com/MendezZp</th>
+    </tr>
+    <tr>
     <th>Mendez</th>
     <th>https://github.com/MendezZp</th>
     </tr>
