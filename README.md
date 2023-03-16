@@ -118,43 +118,14 @@
     <li>
         cat github.pub
     </li>
-    <li>
-        
-    </li>
-    <li>
-        
-    </li>
-    <li>
-        
-    </li>
-    <li>
-        
-    </li>
-    <li>
-        
-    </li>
-    <li>
-        
-    </li>
-    <li>
-        
-    </li>
-    <li>
-        
-    </li>
-    <li>
-        
-    </li>
-    <li>
-        
-    </li>
-    <li>
-        
-    </li>
-    <li>
-        
-    </li>
-    <li>
-        
-    </li>
+    <table>
+    <tr>
+    <th>Nombre</th>
+    <th>Github</th>
+    </tr>
+    <tr>
+    <th>Mendez</th>
+    <th></th>
+    </tr>
+    </table>
 </ol>
