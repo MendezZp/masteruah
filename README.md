@@ -127,12 +127,12 @@
     <th>Mendez</th>
     <th>https://github.com/MendezZp</th>
     <tr>
-    <th>Mendez</th>
-    <th>https://github.com/MendezZp</th>
+    <th>Antonio</th>
+    <th>https://github.com/AntonioFernandez04</th>
     </tr>
     <tr>
-    <th>Mendez</th>
-    <th>https://github.com/MendezZp</th>
+    <th>Salva</th>
+    <th>https://github.com/masteruah-Salvitajiiji/masteruah-github/commits?author=Salvitajiji</th>
     </tr>
     </table>
 </ol>
